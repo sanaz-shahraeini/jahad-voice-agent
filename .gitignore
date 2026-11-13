@@ -1,0 +1,16 @@
+node_modules/
+.vercel/
+.env
+.env.*
+!.env.example
+
+# Local visual-test artifacts
+check-widget.cjs
+widget-check.png
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
